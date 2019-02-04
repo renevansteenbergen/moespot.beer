@@ -1,0 +1,3 @@
+#!/bin/bash -e
+cd ~/moespot.beer
+/usr/bin/screen -d -m -S moespot.beer JEKYLL_ENV=production bundle exec jekyll build -w

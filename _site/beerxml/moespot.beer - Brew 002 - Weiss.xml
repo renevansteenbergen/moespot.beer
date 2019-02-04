@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><RECIPES>
+<RECIPE>
+ <NAME>moespot.beer - Brew 002 - Weiss</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>All Grain</TYPE>
+ <BREWER>Rene</BREWER>
+ <ASST_BREWER></ASST_BREWER>
+ <BATCH_SIZE>25.0000000</BATCH_SIZE>
+ <BOIL_SIZE>28.7676768</BOIL_SIZE>
+ <BOIL_TIME>60.0000000</BOIL_TIME>
+ <EFFICIENCY>75.0000000</EFFICIENCY>
+ <HOPS>
+<HOP>
+ <NAME>Hallertauer Hersbrucker</NAME>
+ <VERSION>1</VERSION>
+ <ORIGIN>Germany</ORIGIN>
+ <ALPHA>2.2000000</ALPHA>
+ <AMOUNT>0.0100000</AMOUNT>
+ <USE>Boil</USE>
+ <TIME>60.0000000</TIME>
+ <NOTES>Used for: German style lagers and wheat beers
+Aroma: Noble, pleasant, clean flavor
+Substitutes: Mt. Hood, Liberty, Hallertauer, Mittelfrueh
+Examples: Wheathook Wheaten Ale</NOTES>
+ <TYPE>Aroma</TYPE>
+ <FORM>Leaf</FORM>
+ <BETA>6.0000000</BETA>
+ <HSI>25.0000000</HSI>
+ <DISPLAY_AMOUNT>10.00 g</DISPLAY_AMOUNT>
+ <INVENTORY>100.00 g</INVENTORY>
+ <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+</HOP>
+</HOPS>
+
+ <FERMENTABLES>
+<FERMENTABLE>
+ <NAME>Pale Wheat (Dingemans)</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Grain</TYPE>
+ <AMOUNT>3.4499978</AMOUNT>
+ <YIELD>83.0000000</YIELD>
+ <COLOR>3.1520000</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>Belgium</ORIGIN>
+ <SUPPLIER>Dingemans</SUPPLIER>
+ <NOTES></NOTES>
+ <COARSE_FINE_DIFF>0.0000000</COARSE_FINE_DIFF>
+ <MOISTURE>5.5000000</MOISTURE>
+ <DIASTATIC_POWER>0.0000000</DIASTATIC_POWER>
+ <PROTEIN>12.0000000</PROTEIN>
+ <MAX_IN_BATCH>70.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>3.45 kg</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 kg</INVENTORY>
+ <POTENTIAL>1.0381800</POTENTIAL>
+ <DISPLAY_COLOR>3.2 EBC</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE>DME Wheat Bavarian (Briess)</EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+<FERMENTABLE>
+ <NAME>Pilsen (Dingemans)</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Grain</TYPE>
+ <AMOUNT>1.9999987</AMOUNT>
+ <YIELD>81.0000000</YIELD>
+ <COLOR>2.9999999</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>Belgium</ORIGIN>
+ <SUPPLIER>Dingemans</SUPPLIER>
+ <NOTES></NOTES>
+ <COARSE_FINE_DIFF>2.0000000</COARSE_FINE_DIFF>
+ <MOISTURE>4.5000000</MOISTURE>
+ <DIASTATIC_POWER>90.0000000</DIASTATIC_POWER>
+ <PROTEIN>11.5000000</PROTEIN>
+ <MAX_IN_BATCH>100.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>2.00 kg</DISPLAY_AMOUNT>
+ <INVENTORY>2.40 kg</INVENTORY>
+ <POTENTIAL>1.0372600</POTENTIAL>
+ <DISPLAY_COLOR>3.0 EBC</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE>LME Pilsen Light (Briess)</EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+<FERMENTABLE>
+ <NAME>Special B (Dingemans)</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Grain</TYPE>
+ <AMOUNT>0.1499999</AMOUNT>
+ <YIELD>65.0000000</YIELD>
+ <COLOR>350.0000000</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>Belgium</ORIGIN>
+ <SUPPLIER>Dingemans</SUPPLIER>
+ <NOTES></NOTES>
+ <COARSE_FINE_DIFF>0.0000000</COARSE_FINE_DIFF>
+ <MOISTURE>4.5000000</MOISTURE>
+ <DIASTATIC_POWER>0.0000000</DIASTATIC_POWER>
+ <PROTEIN>11.5000000</PROTEIN>
+ <MAX_IN_BATCH>20.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>FALSE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>0.15 kg</DISPLAY_AMOUNT>
+ <INVENTORY>0.88 kg</INVENTORY>
+ <POTENTIAL>1.0299000</POTENTIAL>
+ <DISPLAY_COLOR>350.0 EBC</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE></EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+</FERMENTABLES>
+
+ 
+ <YEASTS>
+<YEAST>
+ <NAME>Safbrew Wheat</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Wheat</TYPE>
+ <FORM>Dry</FORM>
+ <AMOUNT>0.0502753</AMOUNT>
+ <AMOUNT_IS_WEIGHT>FALSE</AMOUNT_IS_WEIGHT>
+ <LABORATORY>DCL/Fermentis</LABORATORY>
+ <PRODUCT_ID>WB-06</PRODUCT_ID>
+ <MIN_TEMPERATURE>15.0000000</MIN_TEMPERATURE>
+ <MAX_TEMPERATURE>23.8888889</MAX_TEMPERATURE>
+ <FLOCCULATION>Medium</FLOCCULATION>
+ <ATTENUATION>68.0000000</ATTENUATION>
+ <NOTES>A specialty yeast for wheat beer fermentation.  The yeast produces a subtle estery and phenlol flavor typical of wheat beers.</NOTES>
+ <BEST_FOR>Wheat beers</BEST_FOR>
+ <MAX_REUSE>5</MAX_REUSE>
+ <TIMES_CULTURED>0</TIMES_CULTURED>
+ <ADD_TO_SECONDARY>FALSE</ADD_TO_SECONDARY>
+ <DISPLAY_AMOUNT>50.28 ml</DISPLAY_AMOUNT>
+ <DISP_MIN_TEMP>15.0 C</DISP_MIN_TEMP>
+ <DISP_MAX_TEMP>23.9 C</DISP_MAX_TEMP>
+ <INVENTORY>0.0 pkg</INVENTORY>
+ <CULTURE_DATE>06/03/11</CULTURE_DATE>
+</YEAST>
+</YEASTS>
+
+ 
+ <STYLE>
+ <NAME>Weizen/Weissbier</NAME>
+ <VERSION>1</VERSION>
+ <CATEGORY>German Wheat and Rye Beer</CATEGORY>
+ <CATEGORY_NUMBER>15</CATEGORY_NUMBER>
+ <STYLE_LETTER>A</STYLE_LETTER>
+ <STYLE_GUIDE>BJCP 2008</STYLE_GUIDE>
+ <TYPE>Ale</TYPE>
+ <OG_MIN>1.0440000</OG_MIN>
+ <OG_MAX>1.0520000</OG_MAX>
+ <FG_MIN>1.0100000</FG_MIN>
+ <FG_MAX>1.0140000</FG_MAX>
+ <IBU_MIN>8.0000000</IBU_MIN>
+ <IBU_MAX>15.0000000</IBU_MAX>
+ <COLOR_MIN>3.9400000</COLOR_MIN>
+ <COLOR_MAX>15.7600000</COLOR_MAX>
+ <CARB_MIN>2.5000000</CARB_MIN>
+ <CARB_MAX>2.9000000</CARB_MAX>
+ <ABV_MAX>5.6000000</ABV_MAX>
+ <ABV_MIN>4.3000000</ABV_MIN>
+ <NOTES>A pale, spicy, fruity, refreshing wheatbased ale. A traditional wheat-based ale originating in Southern Germany that is a specialty for summer consumption, but generally produced year-round. These are refreshing, fast-maturing beers that are lightly hopped and show a unique banana-and-clove yeast character. These beers often don&#8217;t age well and are best enjoyed while young and fresh. The version &#8220;mit hefe&#8221; is served with yeast sediment stirred in; the krystal version is filtered for excellent clarity. Bottles with yeast are traditionally swirled or gently rolled prior to serving. The character of a krystal weizen is generally fruitier and less phenolic than that of the hefe-weizen.</NOTES>
+ <PROFILE>Aroma: Moderate to strong phenols (usually clove) and fruity esters (usually banana). The balance and intensity of the phenol and ester components can vary but the best examples are reasonably balanced and fairly prominent. Noble hop character ranges from low to none. A light to moderate wheat aroma (which might be perceived as bready or grainy) may be present but other malt characteristics should not. No diacetyl or DMS. Optional, but acceptable, aromatics can include a light, citrusy tartness, a light to moderate vanilla character, and/or a low bubblegum aroma. None of these optional characteristics should be high or dominant, but often can add to the complexity and balance.
+Appearance: Pale straw to very dark gold in color. A very thick, moussy, long-lasting white head is characteristic. The high protein content of wheat impairs clarity in an unfiltered beer, although the level of haze is somewhat variable. A beer &#8220;mit hefe&#8221; is also cloudy from suspended yeast sediment (which should be roused before drinking). The filtered Krystal version has no yeast and is brilliantly clear.
+Flavor: Low to moderately strong banana and clove flavor. The balance and intensity of the phenol and ester components can vary but the best examples are reasonably balanced and fairly prominent. Optionally, a very light to moderate vanilla character and/or low bubblegum notes can accentuate the banana flavor, sweetness and roundness; neither should be dominant if present. The soft, somewhat bready or grainy flavor of wheat is complementary, as is a slightly sweet Pils malt character. Hop flavor is very low to none, and hop bitterness is very low to moderately low. A tart, citrusy character from yeast and high carbonation is often present. Well rounded, flavorful palate with a relatively dry finish. No diacetyl or DMS.
+Mouthfeel: Medium-light to medium body; never heavy. Suspended yeast may increase the perception of body. The texture of wheat imparts the sensation of a fluffy, creamy fullness that may progress to a light, spritzy finish aided by high carbonation. Always effervescent.</PROFILE>
+ <INGREDIENTS>By German law, at least 50% of the grist must be malted wheat, although some versions use up to 70%; the remainder is Pilsner malt. A traditional decoction mash gives the appropriate body without cloying sweetness. Weizen ale yeasts produce the typical spicy and fruity character, although extreme fermentation temperatures can affect the balance and produce off-flavors. A small amount of noble hops are used only for bitterness.</INGREDIENTS>
+ <EXAMPLES>Weihenstephaner Hefeweissbier, Schneider Weisse Weizenhell, Paulaner Hefe-Weizen, Hacker-Pschorr Weisse, Plank Bavarian Hefeweizen, Ayinger Br&#228;u Weisse, Ettaler Weissbier Hell, Franziskaner Hefe-Weisse, Andechser Weissbier Hefetr&#252;b, Kapuziner Weissbier, Erdinger Weissbier, Penn Weizen, Barrelhouse Hocking Hills Hefe-Weizen, Eisenbahn Weizenbier</EXAMPLES>
+ <DISPLAY_OG_MIN>1.044 SG</DISPLAY_OG_MIN>
+ <DISPLAY_OG_MAX>1.052 SG</DISPLAY_OG_MAX>
+ <DISPLAY_FG_MIN>1.010 SG</DISPLAY_FG_MIN>
+ <DISPLAY_FG_MAX>1.014 SG</DISPLAY_FG_MAX>
+ <DISPLAY_COLOR_MIN>3.9 EBC</DISPLAY_COLOR_MIN>
+ <DISPLAY_COLOR_MAX>15.8 EBC</DISPLAY_COLOR_MAX>
+ <OG_RANGE>1,044-1,052 SG</OG_RANGE>
+ <FG_RANGE>1,010-1,014 SG</FG_RANGE>
+ <IBU_RANGE>8,0-15,0 IBUs</IBU_RANGE>
+ <CARB_RANGE>2,50-2,90 Vols</CARB_RANGE>
+ <COLOR_RANGE>3,9-15,8 EBC</COLOR_RANGE>
+ <ABV_RANGE>4,30-5,60 %</ABV_RANGE>
+</STYLE>
+
+ <EQUIPMENT>
+ <NAME>Braumeister 20l</NAME>
+ <VERSION>1</VERSION>
+ <BOIL_SIZE>28.7676768</BOIL_SIZE>
+ <BATCH_SIZE>25.0000000</BATCH_SIZE>
+ <TUN_VOLUME>26.0000000</TUN_VOLUME>
+ <TUN_WEIGHT>13.9999910</TUN_WEIGHT>
+ <TUN_SPECIFIC_HEAT>0.1200000</TUN_SPECIFIC_HEAT>
+ <TOP_UP_WATER>0.0000000</TOP_UP_WATER>
+ <TRUB_CHILLER_LOSS>1.5000000</TRUB_CHILLER_LOSS>
+ <EVAP_RATE>6.9522472</EVAP_RATE>
+ <BOIL_TIME>60.0000000</BOIL_TIME>
+ <CALC_BOIL_VOLUME>TRUE</CALC_BOIL_VOLUME>
+ <LAUTER_DEADSPACE>0.0000000</LAUTER_DEADSPACE>
+ <TOP_UP_KETTLE>0.0000000</TOP_UP_KETTLE>
+ <HOP_UTILIZATION>100.0000000</HOP_UTILIZATION>
+ <COOLING_LOSS_PCT>1.0000000</COOLING_LOSS_PCT>
+ <NOTES>volume out depends on how dirty the trub is and how much you take of it</NOTES>
+ <DISPLAY_BOIL_SIZE>28.77 l</DISPLAY_BOIL_SIZE>
+ <DISPLAY_BATCH_SIZE>25.00 l</DISPLAY_BATCH_SIZE>
+ <DISPLAY_TUN_VOLUME>26.00 l</DISPLAY_TUN_VOLUME>
+ <DISPLAY_TUN_WEIGHT>14.00 kg</DISPLAY_TUN_WEIGHT>
+ <DISPLAY_TOP_UP_WATER>0.00 l</DISPLAY_TOP_UP_WATER>
+ <DISPLAY_TRUB_CHILLER_LOSS>1.50 l</DISPLAY_TRUB_CHILLER_LOSS>
+ <DISPLAY_LAUTER_DEADSPACE>0.00 l</DISPLAY_LAUTER_DEADSPACE>
+ <DISPLAY_TOP_UP_KETTLE>0.00 l</DISPLAY_TOP_UP_KETTLE>
+</EQUIPMENT>
+
+ <MASH>
+ <NAME>Temperature Mash, 3 step, Light Body with Ferulic Acid rest for Weizen</NAME>
+ <VERSION>1</VERSION>
+ <GRAIN_TEMP>22.2000000</GRAIN_TEMP>
+ <TUN_TEMP>22.2000000</TUN_TEMP>
+ <SPARGE_TEMP>75.6000000</SPARGE_TEMP>
+ <PH>5.2000000</PH>
+ <TUN_WEIGHT>493.8355520</TUN_WEIGHT>
+ <TUN_SPECIFIC_HEAT>0.1200000</TUN_SPECIFIC_HEAT>
+ <EQUIP_ADJUST>TRUE</EQUIP_ADJUST>
+ <NOTES></NOTES>
+ <DISPLAY_GRAIN_TEMP>22.2 C</DISPLAY_GRAIN_TEMP>
+ <DISPLAY_TUN_TEMP>22.2 C</DISPLAY_TUN_TEMP>
+ <DISPLAY_SPARGE_TEMP>75.6 C</DISPLAY_SPARGE_TEMP>
+ <DISPLAY_TUN_WEIGHT>14.00 kg</DISPLAY_TUN_WEIGHT>
+<MASH_STEPS>
+<MASH_STEP>
+ <NAME>Ferulic Acid Rest</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Infusion</TYPE>
+ <INFUSE_AMOUNT>23.3499002</INFUSE_AMOUNT>
+ <STEP_TIME>30.0000000</STEP_TIME>
+ <STEP_TEMP>45.0000000</STEP_TEMP>
+ <RAMP_TIME>4.0000000</RAMP_TIME>
+ <END_TEMP>45.0000000</END_TEMP>
+ <DESCRIPTION>Add 23,35 l of water at 48,7 C</DESCRIPTION>
+ <WATER_GRAIN_RATIO>4,170 l/kg</WATER_GRAIN_RATIO>
+ <DECOCTION_AMT>0.00 l</DECOCTION_AMT>
+ <INFUSE_TEMP>48.7 C</INFUSE_TEMP>
+ <DISPLAY_STEP_TEMP>45.0 C</DISPLAY_STEP_TEMP>
+ <DISPLAY_INFUSE_AMT>23.35 l</DISPLAY_INFUSE_AMT>
+</MASH_STEP>
+<MASH_STEP>
+ <NAME>Protein Rest</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Infusion</TYPE>
+ <INFUSE_AMOUNT>0.0000000</INFUSE_AMOUNT>
+ <STEP_TIME>30.0000000</STEP_TIME>
+ <STEP_TEMP>51.0000000</STEP_TEMP>
+ <RAMP_TIME>4.0000000</RAMP_TIME>
+ <END_TEMP>51.0000000</END_TEMP>
+ <DESCRIPTION>Add 0,00 l of water at 51,0 C</DESCRIPTION>
+ <WATER_GRAIN_RATIO>4,170 l/kg</WATER_GRAIN_RATIO>
+ <DECOCTION_AMT>0.00 l</DECOCTION_AMT>
+ <INFUSE_TEMP>51.0 C</INFUSE_TEMP>
+ <DISPLAY_STEP_TEMP>51.0 C</DISPLAY_STEP_TEMP>
+ <DISPLAY_INFUSE_AMT>0.00 l</DISPLAY_INFUSE_AMT>
+</MASH_STEP>
+<MASH_STEP>
+ <NAME>Saccharification</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Infusion</TYPE>
+ <INFUSE_AMOUNT>0.0000000</INFUSE_AMOUNT>
+ <STEP_TIME>45.0000000</STEP_TIME>
+ <STEP_TEMP>65.0000000</STEP_TEMP>
+ <RAMP_TIME>4.0000000</RAMP_TIME>
+ <END_TEMP>65.0000000</END_TEMP>
+ <DESCRIPTION>Add 0,00 l of water at 65,0 C</DESCRIPTION>
+ <WATER_GRAIN_RATIO>4,170 l/kg</WATER_GRAIN_RATIO>
+ <DECOCTION_AMT>0.00 l</DECOCTION_AMT>
+ <INFUSE_TEMP>65.0 C</INFUSE_TEMP>
+ <DISPLAY_STEP_TEMP>65.0 C</DISPLAY_STEP_TEMP>
+ <DISPLAY_INFUSE_AMT>0.00 l</DISPLAY_INFUSE_AMT>
+</MASH_STEP>
+<MASH_STEP>
+ <NAME>Mash Out</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Infusion</TYPE>
+ <INFUSE_AMOUNT>0.0000000</INFUSE_AMOUNT>
+ <STEP_TIME>10.0000000</STEP_TIME>
+ <STEP_TEMP>78.0000000</STEP_TEMP>
+ <RAMP_TIME>4.0000000</RAMP_TIME>
+ <END_TEMP>78.0000000</END_TEMP>
+ <DESCRIPTION>Add 0,00 l of water at 78,0 C</DESCRIPTION>
+ <WATER_GRAIN_RATIO>4,170 l/kg</WATER_GRAIN_RATIO>
+ <DECOCTION_AMT>0.00 l</DECOCTION_AMT>
+ <INFUSE_TEMP>78.0 C</INFUSE_TEMP>
+ <DISPLAY_STEP_TEMP>78.0 C</DISPLAY_STEP_TEMP>
+ <DISPLAY_INFUSE_AMT>0.00 l</DISPLAY_INFUSE_AMT>
+</MASH_STEP>
+</MASH_STEPS>
+
+</MASH>
+
+ <NOTES></NOTES>
+ <TASTE_NOTES></TASTE_NOTES>
+ <TASTE_RATING>30.0000000</TASTE_RATING>
+ <OG>1.0490000</OG>
+ <FG>1.0100000</FG>
+ <CARBONATION>3.0000000</CARBONATION>
+ <FERMENTATION_STAGES>2</FERMENTATION_STAGES>
+ <PRIMARY_AGE>4.0000000</PRIMARY_AGE>
+ <PRIMARY_TEMP>19.4444444</PRIMARY_TEMP>
+ <SECONDARY_AGE>10.0000000</SECONDARY_AGE>
+ <SECONDARY_TEMP>19.4444444</SECONDARY_TEMP>
+ <TERTIARY_AGE>7.0000000</TERTIARY_AGE>
+ <AGE>30.0000000</AGE>
+ <AGE_TEMP>18.3333333</AGE_TEMP>
+ <CARBONATION_USED>Bottle with 189,81 g Table Sugar</CARBONATION_USED>
+ <FORCED_CARBONATION>TRUE</FORCED_CARBONATION>
+ <PRIMING_SUGAR_NAME>Table Sugar</PRIMING_SUGAR_NAME>
+ <PRIMING_SUGAR_EQUIV>0.9099181</PRIMING_SUGAR_EQUIV>
+ <KEG_PRIMING_FACTOR>0.5000000</KEG_PRIMING_FACTOR>
+ <CARBONATION_TEMP>21.1111111</CARBONATION_TEMP>
+ <DISPLAY_CARB_TEMP>21.1 C</DISPLAY_CARB_TEMP>
+ <DATE>07/05/17</DATE>
+ <EST_OG>1.053 SG</EST_OG>
+ <EST_FG>1.014 SG</EST_FG>
+ <EST_COLOR>15.3 EBC</EST_COLOR>
+ <IBU>1.9 IBUs</IBU>
+ <IBU_METHOD>Tinseth</IBU_METHOD>
+ <EST_ABV>5.1 %</EST_ABV>
+ <ABV>5.1 %</ABV>
+ <ACTUAL_EFFICIENCY>58.5 %</ACTUAL_EFFICIENCY>
+ <CALORIES>455.8 kcal/l</CALORIES>
+ <DISPLAY_BATCH_SIZE>25.00 l</DISPLAY_BATCH_SIZE>
+ <DISPLAY_BOIL_SIZE>28.77 l</DISPLAY_BOIL_SIZE>
+ <DISPLAY_OG>1.049 SG</DISPLAY_OG>
+ <DISPLAY_FG>1.010 SG</DISPLAY_FG>
+ <DISPLAY_PRIMARY_TEMP>19.4 C</DISPLAY_PRIMARY_TEMP>
+ <DISPLAY_SECONDARY_TEMP>19.4 C</DISPLAY_SECONDARY_TEMP>
+ <DISPLAY_TERTIARY_TEMP>18.3 C</DISPLAY_TERTIARY_TEMP>
+ <DISPLAY_AGE_TEMP>18.3 C</DISPLAY_AGE_TEMP>
+</RECIPE>
+</RECIPES>
